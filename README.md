@@ -1,5 +1,5 @@
 # 💫 About Me:
-A Principal Business Analyst delivers Traditional IT solutions. 📊<br><br>An Artificial Intelligence consultant offers solutions through Machine Learning, Deep Learning, Data Science, Time Series 🤖, and Natural Language Processing 📝. They excel in customizing and deploying chatbots using the ChatGPT API. 🚀<br><br>They are experts in presales consultation, assisting in acquiring new business opportunities. 💼
+A Principal Business Analyst delivers Traditional IT solutions. 📊<br><br>An Artificial Intelligence consultant offers solutions through Machine Learning, Deep Learning, Data Science, Time Series 🤖, and Natural Language Processing 📝. Good in customizing and deploying chatbots using the ChatGPT API. 🚀<br><br> Expert in presales consultation, assisting in acquiring new business opportunities. 💼
 
 
 ## 🌐 Socials:
